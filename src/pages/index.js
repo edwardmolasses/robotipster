@@ -24,8 +24,9 @@ class IndexPage extends React.Component {
         </h1>
         <p>Robotipster will tell you where to invest your money.</p>
         <p>
-          His algorithm is based on complicated mathematics that you don't need to understand. 
+          His algorithm is based on complicated mathematics that you don't need to understand. Just trust that robotipster knows all.
         </p>
+        <p><small>Robotipster is for entertainment purposes only and not liable for any financial losses you may incur.</small></p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Robotipsters RoboBlog</Button>
         </Link>
