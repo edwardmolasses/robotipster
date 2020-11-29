@@ -26,7 +26,7 @@ class IndexPage extends React.Component {
         <p>
           His algorithm is based on complicated mathematics that you don't need to understand. Just trust that robotipster knows all<sup>*</sup>.
         </p>
-        <p><small><sup>*</sup>Robotipster is for entertainment purposes only and not liable for any financial losses you may incur.</small></p>
+        <p><small><sup>*</sup>Robotipster is not liable for any financial losses you may incur.</small></p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Robotipsters RoboBlog</Button>
         </Link>
