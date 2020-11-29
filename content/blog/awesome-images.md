@@ -1,40 +1,11 @@
 ---
 path: awesome-images
 date: 2020-06-06T01:22:55.506Z
-title: Awesome Images
-description: Fix for gatsby-plugin-mdx and gatsby-remark-images
+title: This is a post by me lal lalala
+description: hi welcome to my post try a post while youre here..
 ---
-![Great Gatsby](/../assets/great2.jpg "Great Gatsby")
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
-## Netlify CMS Media Configuration
+![bridge](../assets/the-mandalorian-ch12-ca-9s9350s0q-02.jpg "Destroyer Bridge")
 
-First, in your `static/admin/config.yml`, make sure you have the following:
-
-```
-media_folder: content/assets
-public_folder: ../assets
-```
-
-Docs: https://www.netlifycms.org/docs/configuration-options/#media-and-public-folders.
-
-## Gatsby Plugins
-
-From [@cwgw](https://github.com/cwgw):
-
-So digging a little deeper, it looks like Gatsby only looks for "subplugins" at one specific path, `options.plugins`.
-
-`gatsby-plugin-mdx` uses `options.gatsbyRemarkPlugins`. This is fine for transforming markdown as the plugin handles that itself, but Gatsby-specific api files like `gatsby-browser.js` don't get loaded because Gatsby doesn't know they exist.
-
-If you try this…
-
-```javascript
-{
-  resolve: 'gatsby-plugin-mdx',
-  options: {
-    gatsbyRemarkPlugins: [ `gatsby-remark-images` ],
-    plugins: [ `gatsby-remark-images` ],
-  }
-},
-```
-
-…everything works as it should.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
