@@ -1,10 +1,10 @@
 ---
 path: awesome-images
 date: 2020-06-06T01:22:55.506Z
-title: This is a post by me lal lalala
-description: hi welcome to my post try a post while youre here..
+title: Robotipster's Home Among the Stars
+description: A glimpse into robotipster's fabulous lodgings..
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+While not handing out tips to our wonderful audience, robotipster is enjoying the bridge of his star destroyer.
 
 ![bridge](../assets/the-mandalorian-ch12-ca-9s9350s0q-02.jpg "Destroyer Bridge")
 
