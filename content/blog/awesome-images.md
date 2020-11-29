@@ -4,7 +4,7 @@ date: 2020-06-06T01:22:55.506Z
 title: Robotipster's Home Among the Stars
 description: A glimpse into robotipster's fabulous lodgings..
 ---
-While not handing out tips to our wonderful audience, robotipster is enjoying the bridge of his star destroyer.
+While not handing out tips to our audience, robotipster is aimlessly roaming the bridge of his star destroyer.
 
 ![bridge](../assets/the-mandalorian-ch12-ca-9s9350s0q-02.jpg "Destroyer Bridge")
 
