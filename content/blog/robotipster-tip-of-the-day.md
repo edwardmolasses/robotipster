@@ -5,3 +5,5 @@ title: Robotipster Tip of the Day
 description: "Robotipster's tip of the day is:"
 ---
 ## Buy low, sell high!
+
+\- robotipster
