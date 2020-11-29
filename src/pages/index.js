@@ -15,7 +15,7 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="https://static.wikia.nocookie.net/hitchhikers/images/a/a0/Marvinrobot.jpg/revision/latest/scale-to-width-down/310?cb=20181116220504" alt="Gatsby Scene" />
+        <img style={{ margin: 0 }} src="https://static.wikia.nocookie.net/hitchhikers/images/a/a0/Marvinrobot.jpg/revision/latest?cb=20181116220504" alt="Gatsby Scene" />
         <h1>
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
